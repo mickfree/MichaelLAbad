@@ -55,10 +55,3 @@
 
 </p>
 
-
-## 📊 Github stats
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
